@@ -1,0 +1,1 @@
+1,Equipa Operacional,operador@example.com;agente@example.com

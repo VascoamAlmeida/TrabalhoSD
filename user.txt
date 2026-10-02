@@ -1,0 +1,4 @@
+Coordenador,coordenador@example.com,pbkdf2$120000$Xv+YO+3UHgLTw9ENmAcV1Q==$FZXGw2AcY0TMbKROGoWB3r55fpWGncazUesMlumfYqM=,alto
+Operador,operador@example.com,pbkdf2$120000$nilKPzaiimrC/mDqUcQh9w==$KuTgHNWrbUvQnCHzdO5S5j1n/4rqrTGCTj6JNmoR2bM=,medio
+Agente,agente@example.com,pbkdf2$120000$0m47rsBhXjKqzr2aiD9V2w==$QLVsdnSnmNfGccASNfpjvVbkCNnz6pXp2CZIERj7O4A=,baixo
+Utilizador,utilizador@example.com,pbkdf2$120000$cuzTtDbVZM3I07vd8gJGwA==$/RRMQl+3poJoVMk1aZ22mP8KIMZ5bSQMku2dTxk0Xu0=,geral

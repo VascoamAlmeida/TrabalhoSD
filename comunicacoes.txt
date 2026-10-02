@@ -1,0 +1,4 @@
+internet
+bluetooth
+radio
+telemovel

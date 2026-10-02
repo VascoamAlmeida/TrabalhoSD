@@ -1,0 +1,25 @@
+# IntelliJ IDEA / IDE metadata
+.idea/
+*.iml
+out/
+
+# Java build artefacts
+*.class
+build/
+target/
+
+# Runtime-generated persistence / logs
+log.txt
+messages.txt
+directMessages.txt
+notifications.txt
+pedidos.txt
+pedidosComunicacoes.txt
+pedidosRecursos.txt
+pendingRequest.txt
+pendingRequestGroups.txt
+profileChangeRequests.txt
+
+# OS files
+.DS_Store
+Thumbs.db
